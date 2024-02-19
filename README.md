@@ -17,3 +17,7 @@ Suppose we have three types of characters in a GameApp:
    1. **CastSpell**
    2. **ShootArrow**
    3. **SwingSword**
+
+# UML Diagram
+
+![StrategyPatternUML](https://github.com/lloydestrada/StrategyPattern/assets/142376663/96599b03-6193-4da3-92a7-9629c7581010)
